@@ -9,3 +9,5 @@ test6 GUI
 ----------------------
 
 feature branch start
+
+non f.f. in feature
